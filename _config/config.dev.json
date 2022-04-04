@@ -1,0 +1,6 @@
+{
+    "db_srv": "mongodb://localhost:27017/user-app-db",
+    "jwtscrt": "CS66BD7HT52H3AYS2W4PF9BC",
+    "port":4000,
+    "host": "0.0.0.0"
+}
